@@ -60,7 +60,7 @@ Requirements: JDK 25 and a Docker runtime (OrbStack, Docker Desktop or Colima).
 ## Roadmap
 
 - [x] Lab cluster: Proxmox + kubeadm + Cilium
-- [ ] order-service with integration tests and CI
+- [x] order-service with integration tests and CI
 - [ ] JVM troubleshooting exercises
 - [ ] PostgreSQL with replica and failover tests
 - [ ] Full observability: OpenTelemetry, Prometheus, Grafana, Loki, Tempo
